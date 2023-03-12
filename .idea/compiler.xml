@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AlishevSpringCRUDApp" />
         <module name="SpringCRUDApp1" />
         <module name="spring-CRUD-app1" />
+        <module name="AlishevSpringCRUDApp + Hibernate" />
       </profile>
     </annotationProcessing>
   </component>
